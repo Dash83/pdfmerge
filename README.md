@@ -6,5 +6,6 @@ I decided to write this simple tool since I needed to merge sensitive files that
 For usage instructions, just run the script with the "--help" options.
 
 Requirements:
+
 *Must have Python 2.7 installed in the target system.
 *Must have PyPDF2 module installed. I recommend installing this module with "pip install PyPDF2".
